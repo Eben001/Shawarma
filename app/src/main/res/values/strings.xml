@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Shawarma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_shawarma">Yummy Shawarma</string>
+    <string name="one_shawarma">ONE WRAP</string>
+    <string name="three_shawarma">THREE WRAPS</string>
+    <string name="six_shawarma">SIX WRAPS</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="falafel">Falafel Veggie Wrap</string>
+    <string name="iraqi">Iraqi Gus</string>
+    <string name="iraqi_falafel">Iraqi Falafel</string>
+    <string name="sharawa_meat_only">Shawarma meat Only</string>
+    <string name="home_made_combo">Homemade Burger Combo</string>
+    <string name="shawarma_fries">Shawarma On Fries</string>
+    <string name="baklava">Baklava</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="flavor">FLAVOR</string>
+    <string name="pickup_date">PICKUP DATE</string>
+    <string name="send">SEND</string>
+    <string name="new_shawarma_order">New Shawarma Order</string>
+    <string name="subtotal_price">Subtotal %s</string>
+
+    <string name="total_price">Total %s</string>
+    <string name="order_details">Hi, Please process my order\n\nName: %1$s\nAddress: %2$s\nPhone: %3$s
+        \nQuantity: %4$s \nFlavor: %5$s \nPickup date: %6$s \nTotal: %7$s \n\n\tThank you!</string>
+    <string name="name">Enter your full name</string>
+    <string name="address">Enter your full address</string>
+    <string name="phone_number">Enter phone number</string>
+    <string name="txt_address">Address</string>
+    <string name="lbl_phone">Phone number</string>
+
+    <plurals name="shawarma">
+        <item quantity="one">%d wrap of shawarma</item>
+        <item quantity="other">%d wraps of shawarma</item>
+
+    </plurals>
+
+
+</resources>
