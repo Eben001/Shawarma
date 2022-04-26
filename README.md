@@ -1,9 +1,9 @@
-# Project Name
-> Outline a brief description of your project. A simple Shawarma ordering app
+# Shawarma 
+> A simple Shawarma ordering app
 
 
 ## General Information
-- The shawarma ordering app demonstrates the concept of sharedViewModel betweeen multiple fragments
+- The shawarma ordering app demonstrates the concept of sharedViewModel betweeen multiple fragment
 
 
 
